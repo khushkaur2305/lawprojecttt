@@ -1,4 +1,4 @@
-# ⚖ JusticeLens AI v3 – RAG-Powered Legal Intelligence
+# ⚖ PocketLaw-Type Your Problem, Get Your Legal Rights
 
 ## 🤖 Tech Stack (Open Source, No API Keys)
 
